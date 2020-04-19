@@ -17,19 +17,31 @@ subtitle = ""
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
+  name = "Python"
+  description = "75%"
+
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
-  
+  description = "50%"  
+
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
-  description = "10%"
+  description = "80%"
+
+[[feature]]
+  icon = "camera-retro"
+  icon_pack = "fas"
+  name = "Adobe Creative Suite"
+  description = "60%"
+
+[[feature]]
+  icon = "camera-retro"
+  icon_pack = "fas"
+  name = "French"
+  description = "20%"
 
 +++
