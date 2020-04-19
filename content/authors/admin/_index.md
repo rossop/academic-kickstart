@@ -61,7 +61,7 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Peter_Rosso
-- icon orcid
+- icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-2374-9490
 
