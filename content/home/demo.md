@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-DMF Lab  skills like in rapid manufacture and effective/efficient low-end production using rapid manufacture systems. We do not have manufacturing capability to substantially support production efforts of any device, experience of design of medical devices or clinical knowledge, or testing facilities to confirm our designs functionality.
+Our skills like in rapid manufacture and effective/efficient low-end production using rapid manufacture systems. We do not have manufacturing capability to substantially support production efforts of any device, experience of design of medical devices or clinical knowledge, or testing facilities to confirm our designs functionality.
 
 The DMF group is therefore concentrating on:
 
@@ -60,3 +60,9 @@ The DMF group is therefore concentrating on:
 - Offering our skills on a request basis
 
 [[...]](https://dmf-lab.co.uk/covid-19/)
+
+{{% alert note %}}
+This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
+
+Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
+{{% /alert %}}
