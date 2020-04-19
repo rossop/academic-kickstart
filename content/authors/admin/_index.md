@@ -14,8 +14,12 @@ role: Postgraduate Research Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: University of Bristol
+- name: Design Manufacturing Futures Lab
   url: "https://dmf-lab.co.uk/peter-rosso/"
+- name: University of Bristol
+  url: "http://www.bristol.ac.uk/engineering/departments/mecheng/"
+- name: School of Civil, Aerospace and Mechanical Engineering (CAME)
+  url: "https://www.bristol.ac.uk/engineering/school-came/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include CAD Design, Usability and Data Analysis
@@ -42,16 +46,23 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:test@example.org" '#contact'  # For a direct email link, use "mailto:peter.rosso@bristol.ac.uk".
+- icon: github
+  icon_pack: fab
+  link: https://github.com/rossop
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/rossopeter_
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=eM_RGJcAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/rossop
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Peter_Rosso
+- icon orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-2374-9490
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
