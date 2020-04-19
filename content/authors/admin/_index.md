@@ -34,11 +34,11 @@ education:
   - course: PhD in Mechanical Engineering
     institution: University of Bristol
     year: 2021
-	link: "https://www.bristol.ac.uk/study/undergraduate/2020/mechanical-engineering/beng-mech-eng/"
+    link: "https://www.bristol.ac.uk/study/undergraduate/2020/mechanical-engineering/beng-mech-eng/"
   - course: BEng in Mechanical Engineering
     institution: University of Bristol
     year: 2017
-	link: "https://www.bristol.ac.uk/study/undergraduate/2020/mechanical-engineering/beng-mech-eng/"
+    link: "https://www.bristol.ac.uk/study/undergraduate/2020/mechanical-engineering/beng-mech-eng/"
 
 
 # Social/Academic Networking
