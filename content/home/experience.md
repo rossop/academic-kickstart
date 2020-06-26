@@ -32,7 +32,7 @@ date_format = "Jan 2006"
 
 """
 
-+++
+
 
 [[experience]]
   title = "Teaching Support Assistant"
@@ -42,10 +42,8 @@ date_format = "Jan 2006"
   date_start = "2017-10-01"
   date_end = "2020-06-31"
   description = """Teaching assistant in Design and Manufactures (MENG26000), Modelling (MENG21712, MENG11511) and Manufacturing Systems (MENGM0032)
-
 """
 
-+++
 
 [[experience]]
   title = "Student Placement"
@@ -59,5 +57,4 @@ date_format = "Jan 2006"
   * Data Analysis
   * Image Processing
   * Writing
-
 """
