@@ -57,8 +57,10 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Bristol"
   date_start = "2017-10-01"
-  date_end = "2020-06-31"
+  date_end = "2020-06-30"
   description = """Teaching assistant in Design and Manufactures (MENG26000), Modelling (MENG21712, MENG11511) and Manufacturing Systems (MENGM0032)
+
+Nominated by students for *[Outstanding Teaching by a Postgraduate Student](http://www.bristol.ac.uk/bilt/celebrating-staff/bta/2020-awards-and-criteria/)*
 
 """
 
