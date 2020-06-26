@@ -17,26 +17,55 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+We have developed such a syalem which uses 3D ob? ject descriptions created on a commercial CAD system and expresBeᗨ in the indutry-standard IGES form, and per(orma geometric inferencing to obt&in a relational graph repreaenta? lion of the object which can be stored in a datab&Be of models for object recognition.
+
+
+
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "PhD Student"
+  company = "University of Bristol"
+  company_url = "https://research-information.bris.ac.uk/en/persons/peter-rosso"
+  location = "Bristol"
+  date_start = "2017-09-01"
+  date_end = ""
+  description = """
+  Taught engineering design and researched CAD design usability and refactoring.  Research project included:
+
+  * Data Analysis
+  * Research
+  * Writing
+  """
+
+
+[[experience]]
+  title = "Teaching Support Assistant"
+  company = "University of Bristol"
+  company_url = "https://research-information.bris.ac.uk/en/persons/peter-rosso"
+  location = "Bristol"
+  date_start = "2017-10-01"
+  date_end = "2020-06-31"
+  description = """
+  Teaching assistant in Design and Manufactures (MENG26000), Modelling (MENG21712, MENG11511) and Manufacturing Systems (MENGM0032)
+  """
+
+
+
+[[experience]]
+  title = "Student Placement"
+  company = "University of Bristol"
+  company_url = "https://research-information.bris.ac.uk/en/persons/peter-rosso"
+  location = "Bristol"
+  date_start = "2016-11-01"
+  date_end = "2017-06-30"
+  description = """
+  Processing of industrial data using Matlab and Java. The project aims to write a programme optimizing speed and quality of results using parallel programming, and improving user experience.  Research project included:
+
+  * Data Analysis
+  * Image Processing
+  * Writing
+  """
+
+  
+  
+  +++
