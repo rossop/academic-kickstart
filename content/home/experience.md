@@ -35,15 +35,15 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "PhD Student"
+  title = "Visiting Researcher -  Student Placement"
   company = "University of Bristol"
   company_url = ""
   location = "Bristol"
-  date_start = "2017-09-01"
-  date_end = ""
-  description = """Researching data structure and methods to increase CAD design usability by enabling refactoring.  Research project included:
+  date_start = "2016-11-01"
+  date_end = "2017-06-30"
+  description = """Processing of industrial data using Matlab and Java. The project aims to write a programme optimizing speed and quality of results using parallel programming, and improving user experience. Research project included:
 
-  * Research
+  * Image Processing
   * Data Analysis
   * Writing
 
