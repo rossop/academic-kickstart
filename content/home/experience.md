@@ -31,6 +31,7 @@ date_format = "Jan 2006"
   * Writing
 
 """
+<<<<<<< HEAD
 [[experience]]
   title = "Teaching Support Assistant"
   company = "University of Bristol"
@@ -57,6 +58,8 @@ date_format = "Jan 2006"
   * Image Processing
   * Writing
   """
+=======
+>>>>>>> parent of ad5700f... Update experience.md
 
 +++
 
