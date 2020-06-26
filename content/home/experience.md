@@ -26,10 +26,48 @@ date_format = "Jan 2006"
   date_end = ""
   description = """Taught engineering design and researched CAD design usability and refactoring.  Research project included:
 
-  * Analysing
-  * Modelling
+  * Research
+  * Data Analysis
   * Writing
 
 """
+
+
+
+[[experience]]
+  title = "Teaching Support Assistant"
+  company = "University of Bristol"
+  company_url = ""
+  location = "Bristol"
+  date_start = "2017-10-01"
+  date_end = "2020-06-31"
+  description = """
+
+Teaching assistant in Design and Manufactures (MENG26000), Modelling (MENG21712, MENG11511) and Manufacturing Systems (MENGM0032)
+
+Nominated by students for "*[Outstanding Teaching by a Postgraduate Student](http://www.bristol.ac.uk/bilt/celebrating-staff/bta/2020-awards-and-criteria/)*"
+
+"""
+
+
+
+[[experience]]
+  title = "Visiting Researcher -  Student Placement"
+  company = "University of Bristol"
+  company_url = ""
+  location = "Bristol"
+  date_start = "2016-11-01"
+  date_end = "2017-06-30"
+  description = """Processing of industrial data using Matlab and Java. The project aims to write a programme optimizing speed and quality of results using parallel programming, and improving user experience. Research project included:
+
+  * Data Analysis
+  * Image Processing
+  * Writing
+
+""" 
+
+
+
+
 
 +++
