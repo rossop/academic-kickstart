@@ -80,9 +80,9 @@ user_groups:
 - Researchers
 - Visitors
 
+---
+
 Peter is a postgraduate researcher in his 3rd year of a PhD.
 Graduating from the University of Bristol with a bachelors’ in Mechanical Engineering, he then went on to work on a feasibility study sponsored by Airbus focused on the analysis of engineering drawings. He started his PhD in 2017 within the [Design and Manufacturing Futures Lab](https://dmf-lab.co.uk/peter-rosso/), working on refactoring of CAD models.
 
 Outside of engineering, he is a keen climber and mountaineer. Mountain Leader trained, and he is currently on his Rock Climbing Instructor qualification. Peter loves from climbing brings him to climb the local Avon Gorge, to mountaineering in the Alps. Last summer he took part to a [climbing expedition in Armenia](https://www.projectarmenia.co.uk/) and presented his personal experience at the [Royal Geographical Society](https://www.rgs.org/geography/online-lectures/project-armenia-climbing-above-the-clouds-peter/)
----
-
