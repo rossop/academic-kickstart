@@ -52,7 +52,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "PhD Student"
+  title = "Teaching Support Assistant"
   company = "University of Bristol"
   company_url = ""
   location = "Bristol"
