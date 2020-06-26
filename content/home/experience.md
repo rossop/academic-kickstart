@@ -17,10 +17,6 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-We have developed such a syalem which uses 3D ob? ject descriptions created on a commercial CAD system and expresBeᗨ in the indutry-standard IGES form, and per(orma geometric inferencing to obt&in a relational graph repreaenta? lion of the object which can be stored in a datab&Be of models for object recognition.
-
-
-
 
 [[experience]]
   title = "PhD Student"
