@@ -51,4 +51,19 @@ date_format = "Jan 2006"
 
 
 
+[[experience]]
+  title = "PhD Student"
+  company = "University of Bristol"
+  company_url = ""
+  location = "Bristol"
+  date_start = "2017-09-01"
+  date_end = ""
+  description = """Researching data structure and methods to increase CAD design usability by enabling refactoring.  Research project included:
+
+  * Research
+  * Data Analysis
+  * Writing
+
+"""
+
 +++
