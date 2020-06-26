@@ -82,4 +82,3 @@ user_groups:
 ---
 
 Peter is a postgraduate researcher in his 3rd year of a PhD.
-Graduating from the University of Bristol with a bachelors’ in Mechanical Engineering, he then went on to work on a feasibility study sponsored by Airbus focused on the analysis of engineering drawings. He started his PhD in 2017 within the 
