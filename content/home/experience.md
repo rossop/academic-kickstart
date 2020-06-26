@@ -32,9 +32,9 @@ date_format = "Jan 2006"
 
 """
 
-------
++++
 
-
+[[experience]]
   title = "Teaching Support Assistant"
   company = "University of Bristol"
   company_url = "https://research-information.bris.ac.uk/en/persons/peter-rosso"
@@ -47,7 +47,7 @@ date_format = "Jan 2006"
 
 +++
 
-
+[[experience]]
   title = "Student Placement"
   company = "University of Bristol"
   company_url = "https://research-information.bris.ac.uk/en/persons/peter-rosso"
