@@ -5,7 +5,7 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "COVID-19"
@@ -60,9 +60,3 @@ The DMF group is therefore concentrating on:
 - Offering our skills on a request basis
 
 [[...]](https://dmf-lab.co.uk/covid-19/)
-
-{{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
-
-Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
-{{% /alert %}}
