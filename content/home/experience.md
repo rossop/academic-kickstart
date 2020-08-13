@@ -60,7 +60,7 @@ date_format = "Jan 2006"
   date_end = "2020-06-30"
   description = """Teaching assistant in Design and Manufactures (MENG26000), Modelling (MENG21712, MENG11511) and Manufacturing Systems (MENGM0032)
 
-Nominated by students for *[Outstanding Teaching by a Postgraduate Student](http://www.bristol.ac.uk/bilt/celebrating-staff/bta/2020-awards-and-criteria/)*
+Nominated by students for *[Outstanding Teaching by a Postgraduate Student](http://www.bristol.ac.uk/bilt/celebrating-staff/bta/2021-awards-and-criteria/)*
 
 """
 
